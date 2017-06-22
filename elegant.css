@@ -122,8 +122,7 @@ div.recent-posts-time{display:inline;}
 div.blog-archives article{margin-left:0;padding-left:0;}
 div.recent-posts time{float:none;}
 div.recent-posts-time{display:block;}
-ul.list-articles-category li time{width:100%;}
-}
+ul.list-articles-category li time{width:100%;}}
 #mc-embed-signup{font-family:inherit;font-size:inherit;margin:10px 0;}
 #mc-embed-signup form{display:block;padding:0;position:relative;text-align:left;}
 #mc-embed-signup input{-moz-appearance:none;-webkit-appearance:none;border:1px solid #999;}
