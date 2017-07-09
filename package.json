@@ -1,0 +1,35 @@
+{
+  "name": "mister-gold-cdn",
+  "version": "1.0.1",
+  "description": "Resource files from my blog https://mister-gold.pro",
+  "main": "tipuesearch.min.js",
+  "style": "elegant.css",
+  "files": [
+    "*.json",
+    "*.js",
+    "*.css",
+    "*.woff"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bandantonio/mister-gold-cdn.git"
+  },
+  "keywords": [
+    "pelican",
+    "static-site-generator",
+    "cdn",
+    "jsdelivr",
+    "content",
+    "site",
+    "blog"
+  ],
+  "author": "Antonio Zolotukhin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bandantonio/mister-gold-cdn/issues"
+  },
+  "homepage": "https://mister-gold.pro/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
