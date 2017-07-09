@@ -31,4 +31,4 @@ I assume that the same (or even greater) results can be acheived on other SSG (e
 
 ## Contribution
 
-The implemetation of my "static network" is stupidly simple and I suppose it is not as great as it could be, so if there are some better, more efficient or elegant approaches, your ideas are welcome and appreciated! Feel free to create an [issue](./issues) and share your thoughts. Let's do some cool stuff together!
+The implemetation of my "static network" is stupidly simple and I suppose it is not as great as it could be, so if there are some better, more efficient or elegant approaches, your ideas are welcome and appreciated! Feel free to create an [issue](https://github.com/bandantonio/mister-gold-cdn/issues) and share your thoughts. Let's do some cool stuff together!
