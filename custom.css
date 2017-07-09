@@ -1,0 +1,9 @@
+@font-face{font-family:'Gold';src:url(../fonts/gold-font.eot);src:url(../fonts/gold-font.eot?#iefix) format("embedded-opentype"),url(../fonts/gold-font.woff) format("woff"),url(../fonts/gold-font.ttf) format("truetype"),url(../fonts/gold-font.svg#Gold) format("svg");font-weight:400;font-style:normal}
+h1{color:#8B0000}
+.navbar .brand{padding:10px 20px 5px 10px}
+.site-name{font-family:'Gold';font-size:40px}
+#footer .site-name{font:1em Calibri,Tahoma,Arial,Sans-Serif}
+article p:not(#list-of-translations):not(#post-share-links) a,article ol a,blockquote a,article div.article-content ul:not(.articles-timeline):not(.related-posts-list) a{border-bottom:thin dashed #8B0000;color:#8B0000}
+.article-content img{margin:0 auto;display:block}
+img[title="Mister-Gold-QR"]{width:25%;float:right}
+ul.list-articles-category li time{width:9em}
