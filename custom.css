@@ -1,4 +1,4 @@
-@font-face{font-family:'Gold';src:url(./fonts/gold-font.eot);src:url(./fonts/gold-font.eot?#iefix) format("embedded-opentype"),url(./fonts/gold-font.woff) format("woff"),url(./fonts/gold-font.ttf) format("truetype"),url(./fonts/gold-font.svg#Gold) format("svg");font-weight:400;font-style:normal}
+@font-face{font-family:'Gold';src:url(https://mister-gold.pro/theme/fonts/gold-font.eot);src:url(https://mister-gold.pro/theme/fonts/gold-font.eot?#iefix) format("embedded-opentype"),url(https://mister-gold.pro/theme/fonts/gold-font.woff) format("woff"),url(https://mister-gold.pro/theme/fonts/gold-font.ttf) format("truetype"),url(https://mister-gold.pro/theme/fonts/gold-font.svg#Gold) format("svg");font-weight:400;font-style:normal}
 h1{color:#8B0000}
 .navbar .brand{padding:10px 20px 5px 10px}
 .site-name{font-family:'Gold';font-size:40px}
