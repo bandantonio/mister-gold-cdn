@@ -145,3 +145,145 @@ div.figure p.caption{color:gray;font-size:.6em;margin:0;}
 div.figure p.caption a{border:none;color:gray;}
 div.figure.align-right, .article-content img.align-right{float:right;margin-left:1.5em;}
 div.figure.align-left, .article-content img.align-left{float:left;margin-right:1.5em;}
+
+/* ------------------------------------------------------------------------
+*
+*  Theme Tipuesearch
+*
+------------------------------------------------------------------------ */
+
+#tipue_search_content{clear:left;margin:0;max-width:650px;padding:25px 0 13px 0;}
+#tipue_search_loading{background:#fff url('img/loader.gif') no-repeat left;padding-top:60px;}
+#tipue_search_warning{color:#333;font:12px/1.6 'Helvetica Neue', Helvetica, 'Gill Sans', 'Gill Sans MT', Calibri, Arial, Sans-Serif;margin:7px 0;}
+#tipue_search_warning a{color:#3f72d8;text-decoration:none;}
+#tipue_search_warning a:hover{border-bottom:1px solid #ccc;padding-bottom:1px;}
+#tipue_search_results_count, #tipue_search_warning_head{border-bottom:1px solid rgb(143, 134, 134);color:darkred;font-family:Baskerville, Garamond, Georgia, "DejaVu Serif", "Times New Roman", Times, Serif;font-size:3em;font-weight:normal;margin:20px 0 20px 0;padding:5px 5px 15px 5px;}
+.tipue_search_content_title{font:300 23px/1.6 'Helvetica Neue', Helvetica, 'Gill Sans', 'Gill Sans MT', Calibri, Arial, Sans-Serif;margin-top:20px;}
+.tipue_search_content_title a{color:#3f72d8;text-decoration:none;}
+.tipue_search_content_title a:hover{border-bottom:1px solid #ccc;padding-bottom:1px;}
+.tipue_search_content_text{color:#333;font-family:Scala, Georgia, "DejaVu Serif", "Times New Roman", Times, Serif;font-size:1em;font-variant:normal;line-height:1.6em;padding:13px 0;text-transform:none;}
+.tipue_search_content_text b{color:#EF1D1D;font-family:Garamond;font-size:1.3em;}
+.tipue_search_content_loc{font:300 13px/1.7 'Helvetica Neue', Helvetica, 'Gill Sans', 'Gill Sans MT', Calibri, Arial, Sans-Serif;overflow:auto;}
+.tipue_search_content_loc a{color:#555;text-decoration:none;}
+.tipue_search_content_loc a:hover{border-bottom:1px solid #ccc;padding-bottom:1px;}
+#tipue_search_foot{margin:51px 0 21px 0;}
+#tipue_search_foot_boxes{font:12px/1 'Helvetica Neue', Helvetica, 'Gill Sans', 'Gill Sans MT', Calibri, Arial, Sans-Serif;margin:0;padding:0;}
+#tipue_search_foot_boxes li{display:inline;list-style:none;margin:0;padding:0;}
+#tipue_search_foot_boxes li a{background-color:#f1f1f1;border-radius:1px;border:1px solid #dcdcdc;color:#333;margin-right:7px;padding:7px 13px 8px 13px;text-align:center;text-decoration:none;}
+#tipue_search_foot_boxes li.current{background:#fff;border-radius:1px;border:1px solid #dcdcdc;color:#333;margin-right:7px;padding:7px 13px 8px 13px;text-align:center;}
+#tipue_search_foot_boxes li a:hover{background-color:#f3f3f3;border:1px solid #ccc;}
+
+/* ------------------------------------------------------------------------
+*
+*  Theme Pygments
+*
+------------------------------------------------------------------------ */
+
+.highlight, pre{background-color:#fdf6e3;color:#586e75}
+.highlight .c{color:#93a1a1}
+.highlight .err{color:#586e75}
+.highlight .g{color:#586e75}
+.highlight .k{color:#859900}
+.highlight .l{color:#586e75}
+.highlight .n{color:#586e75}
+.highlight .o{color:#859900}
+.highlight .x{color:#cb4b16}
+.highlight .p{color:#586e75}
+.highlight .cm{color:#93a1a1}
+.highlight .cp{color:#859900}
+.highlight .c1{color:#93a1a1}
+.highlight .cs{color:#859900}
+.highlight .gd{color:#2aa198}
+.highlight .ge{color:#586e75;font-style:italic}
+.highlight .gr{color:#dc322f}
+.highlight .gh{color:#cb4b16}
+.highlight .gi{color:#859900}
+.highlight .go{color:#586e75}
+.highlight .gp{color:#586e75}
+.highlight .gs{color:#586e75;font-weight:bold}
+.highlight .gu{color:#cb4b16}
+.highlight .gt{color:#586e75}
+.highlight .kc{color:#cb4b16}
+.highlight .kd{color:#268bd2}
+.highlight .kn{color:#859900}
+.highlight .kp{color:#859900}
+.highlight .kr{color:#268bd2}
+.highlight .kt{color:#dc322f}
+.highlight .ld{color:#586e75}
+.highlight .m{color:#2aa198}
+.highlight .s{color:#2aa198}
+.highlight .na{color:#586e75}
+.highlight .nb{color:#B58900}
+.highlight .nc{color:#268bd2}
+.highlight .no{color:#cb4b16}
+.highlight .nd{color:#268bd2}
+.highlight .ni{color:#cb4b16}
+.highlight .ne{color:#cb4b16}
+.highlight .nf{color:#268bd2}
+.highlight .nl{color:#586e75}
+.highlight .nn{color:#586e75}
+.highlight .nx{color:#586e75}
+.highlight .py{color:#586e75}
+.highlight .nt{color:#268bd2}
+.highlight .nv{color:#268bd2}
+.highlight .ow{color:#859900}
+.highlight .w{color:#586e75}
+.highlight .mf{color:#2aa198}
+.highlight .mh{color:#2aa198}
+.highlight .mi{color:#2aa198}
+.highlight .mo{color:#2aa198}
+.highlight .sb{color:#93a1a1}
+.highlight .sc{color:#2aa198}
+.highlight .sd{color:#586e75}
+.highlight .s2{color:#2aa198}
+.highlight .se{color:#cb4b16}
+.highlight .sh{color:#586e75}
+.highlight .si{color:#2aa198}
+.highlight .sx{color:#2aa198}
+.highlight .sr{color:#dc322f}
+.highlight .s1{color:#2aa198}
+.highlight .ss{color:#2aa198}
+.highlight .bp{color:#268bd2}
+.highlight .vc{color:#268bd2}
+.highlight .vg{color:#268bd2}
+.highlight .vi{color:#268bd2}
+.highlight .il{color:#2aa198}
+
+/* ------------------------------------------------------------------------
+*
+*  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+*
+------------------------------------------------------------------------ */
+
+@font-face{font-family:'FontAwesome';src:url(../fonts/fontawesome-webfont.eot?v=4.7.0);src:url(../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"),url(../fonts/fontawesome-webfont.woff2?v=4.7.0) format("woff2"),url(../fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"),url(../fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"),url(../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");font-weight:400;font-style:normal}
+.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.fa-lg{font-size:1.33333333em;line-height:.75em;vertical-align:-15%}
+.fa-2x{font-size:2em}
+.fa-3x{font-size:3em}
+.fa-4x{font-size:4em}
+.fa-5x{font-size:5em}
+.fa-fw{width:1.28571429em;text-align:center}
+.fa-ul{padding-left:0;margin-left:2.14285714em;list-style-type:none}
+.fa-ul > li{position:relative}
+.fa-li{position:absolute;left:-2.14285714em;width:2.14285714em;top:.14285714em;text-align:center}
+.fa-li.fa-lg{left:-1.85714286em}
+.fa-border{padding:.2em .25em .15em;border:solid .08em #eee;border-radius:.1em}
+.fa-pull-left{float:left}
+.fa-pull-right{float:right}
+.fa.fa-pull-left{margin-right:.3em}
+.fa.fa-pull-right{margin-left:.3em}
+.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}
+.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}
+@-webkit-keyframes fa-spin {0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
+@keyframes fa-spin {0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
+.fa-stack{position:relative;display:inline-block;width:2em;height:2em;line-height:2em;vertical-align:middle}
+.fa-stack-1x,.fa-stack-2x{position:absolute;left:0;width:100%;text-align:center}
+.fa-stack-1x{line-height:inherit}
+.fa-stack-2x{font-size:2em}
+.fa-inverse{color:#fff}
+.fa-linkedin:before{content:"\f0e1"}
+.fa-github:before{content:"\f09b"}
+.fa-twitter:before{content:"\f099"}
+.fa-facebook-f:before,.fa-facebook:before{content:"\f09a"}
+.fa-feed:before,.fa-rss:before{content:"\f09e"}
+.fa-comments:before{content:"\f086"}

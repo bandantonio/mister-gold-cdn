@@ -1,6 +1,6 @@
 {
   "name": "mister-gold-cdn",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Resource files from my blog https://mister-gold.pro",
   "main": "tipuesearch.min.js",
   "style": "elegant.css",
