@@ -10,7 +10,7 @@ h5 small, h5 a, h5 a:hover,
 h6 small, h6 a, h6 a:hover{color:inherit;text-decoration:none;}
 a{color:#3875d7;}
 hr{border-width:3px;}
-/*.site-name{font-family:'Monaco', 'Inconsolata', 'Andale Mono', 'Lucida Console', 'Bitstream Vera Sans Mono', 'Courier New', Courier, Monospace;}*/
+.site-name{font-family:'Monaco', 'Inconsolata', 'Andale Mono', 'Lucida Console', 'Bitstream Vera Sans Mono', 'Courier New', Courier, Monospace;}
 .top-menu li a{font-weight:bold;}
 #footer{border-top:1px solid rgba(0, 0, 0, .2);font:.8em Calibri, Tahoma, Arial, Sans-Serif;margin:15px 0 0 0;padding:0;}
 ul.footer-content{list-style:none;margin:-1px 0 0 0;padding:2px 5px 0;display:table;height:45px;width:100%;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;}
@@ -39,10 +39,10 @@ div.highlight{margin-bottom:20px;}
 .tags-in-article li{float:none;line-height:28px;}
 .tag-title{font-family:'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Sans-Serif;}
 .articles-in-tag li{font:1.1em/1.6em 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Sans-Serif;}
-/*article p:not(#list-of-translations):not(#post-share-links) a,
+article p:not(#list-of-translations):not(#post-share-links) a,
 article ol a,
 blockquote a,
-article div.article-content ul:not(.articles-timeline):not(.related-posts-list) a{border-bottom:thin dashed #A9A9A9;color:#000;}*/
+article div.article-content ul:not(.articles-timeline):not(.related-posts-list) a{border-bottom:thin dashed #A9A9A9;color:#000;}
 article p a:hover,
 article ol a:hover,
 article div.article-content ul:not(.articles-timeline) a:hover{border-bottom:none;text-decoration:none;text-shadow:none;}
@@ -122,7 +122,7 @@ div.recent-posts-time{display:inline;}
 div.blog-archives article{margin-left:0;padding-left:0;}
 div.recent-posts time{float:none;}
 div.recent-posts-time{display:block;}
-/*ul.list-articles-category li time{width:100%;}}*/
+ul.list-articles-category li time{width:100%;}}
 #mc-embed-signup{font-family:inherit;font-size:inherit;margin:10px 0;}
 #mc-embed-signup form{display:block;padding:0;position:relative;text-align:left;}
 #mc-embed-signup input{-moz-appearance:none;-webkit-appearance:none;border:1px solid #999;}
@@ -145,22 +145,6 @@ div.figure p.caption{color:gray;font-size:.6em;margin:0;}
 div.figure p.caption a{border:none;color:gray;}
 div.figure.align-right, .article-content img.align-right{float:right;margin-left:1.5em;}
 div.figure.align-left, .article-content img.align-left{float:left;margin-right:1.5em;}
-
-/* ------------------------------------------------------------------------
-*
-*  Theme Custom CSS
-*
------------------------------------------------------------------------- */
-
-@font-face{font-family:'Gold';src:url(https://mister-gold.pro/theme/fonts/gold-font.eot);src:url(https://mister-gold.pro/theme/fonts/gold-font.eot?#iefix) format("embedded-opentype"),url(https://mister-gold.pro/theme/fonts/gold-font.woff) format("woff"),url(https://mister-gold.pro/theme/fonts/gold-font.ttf) format("truetype"),url(https://mister-gold.pro/theme/fonts/gold-font.svg#Gold) format("svg");font-weight:400;font-style:normal}
-h1{color:#8B0000}
-.navbar .brand{padding:10px 20px 5px 10px}
-.site-name{font-family:'Gold';font-size:40px}
-#footer .site-name{font:1em Calibri,Tahoma,Arial,Sans-Serif}
-article p:not(#list-of-translations):not(#post-share-links) a,article ol a,blockquote a,article div.article-content ul:not(.articles-timeline):not(.related-posts-list) a{border-bottom:thin dashed #8B0000;color:#8B0000}
-.article-content img{margin:0 auto;display:block}
-img[title="Mister-Gold-QR"]{width:25%;float:right}
-ul.list-articles-category li time{width:9em}
 
 /* ------------------------------------------------------------------------
 *
@@ -271,7 +255,7 @@ ul.list-articles-category li time{width:9em}
 *
 ------------------------------------------------------------------------ */
 
-@font-face{font-family:'FontAwesome';src:url(../fonts/fontawesome-webfont.eot?v=4.7.0);src:url(../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"),url(../fonts/fontawesome-webfont.woff2?v=4.7.0) format("woff2"),url(../fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"),url(../fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"),url(../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");font-weight:400;font-style:normal}
+@font-face{font-family:'FontAwesome';src:url(http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0);src:url(http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"),url(http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0) format("woff2"),url(http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"),url(http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"),url(http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");font-weight:400;font-style:normal}
 .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 .fa-lg{font-size:1.33333333em;line-height:.75em;vertical-align:-15%}
 .fa-2x{font-size:2em}
