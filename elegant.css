@@ -285,5 +285,6 @@ div.figure.align-left, .article-content img.align-left{float:left;margin-right:1
 .fa-github:before{content:"\f09b"}
 .fa-twitter:before{content:"\f099"}
 .fa-facebook-f:before,.fa-facebook:before{content:"\f09a"}
+.fa-google-plus:before {content: "\f0d5";}
 .fa-feed:before,.fa-rss:before{content:"\f09e"}
 .fa-comments:before{content:"\f086"}
