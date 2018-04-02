@@ -78,6 +78,7 @@ i.fa-youtube:hover, i.fa-youtube-square:hover, i.fa-youtube-play:hover{backgroun
 i.fa-linkedin:hover, i.fa-linkedin-square:hover{background-color:#107FB9;}
 i.fa-gittip:hover{background-color:#663300;}
 i.fa-rss:hover, i.fa-rss-square:hover{background-color:#FF6600;}
+i.fa-telegram:hover, i.fa-telegram-plane:hover {background-color:#0088cc;}
 i.fa-bitbucket:hover, i.fa-bitbucket-square:hover{background-color:#205081;}
 i.fa-stack-exchange:hover{background-color:#3A7BC8;}
 ul.multi-parts-list a{color:black;}
@@ -281,10 +282,10 @@ div.figure.align-left, .article-content img.align-left{float:left;margin-right:1
 .fa-stack-1x{line-height:inherit}
 .fa-stack-2x{font-size:2em}
 .fa-inverse{color:#fff}
-.fa-linkedin:before{content:"\f0e1"}
 .fa-github:before{content:"\f09b"}
 .fa-twitter:before{content:"\f099"}
 .fa-facebook-f:before,.fa-facebook:before{content:"\f09a"}
 .fa-google-plus:before {content: "\f0d5";}
 .fa-feed:before,.fa-rss:before{content:"\f09e"}
-.fa-comments:before{content:"\f086"}
+.fa-telegram:before{content:"\f2c6"}
+.fa-telegram-plane:before{content:"\f3fe"}
